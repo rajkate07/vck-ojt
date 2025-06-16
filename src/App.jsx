@@ -7,7 +7,7 @@ import Contactpage from "./pages/ContactPage";
 const App = () => {
     return(
       <>
-      <div>
+      <div className="main-div">
       <Router>
         <Routes>
           <Route path="/" element={<HomePage/>}/>
