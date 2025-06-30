@@ -20,7 +20,6 @@ const App = () => {
     return(
       <>
       <div>
-        {/* Your main application content */}
         <DeveloperInfoPopup
           show={showPopup}
           onClose={handleClosePopup}
