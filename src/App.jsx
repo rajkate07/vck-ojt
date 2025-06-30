@@ -9,7 +9,7 @@ import "./App.css";
 import Header from "./component/Header/Header";
 import AdmissionPages from "./pages/AdmissionPages";
 import Footer from "./component/Footer/Footer";
-import DeveloperInfoPopup from "./component/Developerinfo/DeveloperInfoPopup";
+import DeveloperInfoPopup from "./component/DeveloperInfo/DeveloperInfoPopup";
 import { useState } from "react";
 
 const App = () => {
